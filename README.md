@@ -1,8 +1,12 @@
 # Yltra Flat 
 
-Version 2.5
+Version 2.6
 
-14/02/216
+18/06/2016
+
+Changed to fit to Linux Mint 18 Beta
+
+See log file in folder Yltra Flat
 
 
 Icon theme for Linux Operating Systems
