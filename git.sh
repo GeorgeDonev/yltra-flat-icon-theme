@@ -27,6 +27,17 @@
 #
 ############################################################################
 # Below command will backup everything inside the project folder
+
+# echo "# Ultimate-Linux-Mint-18" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git remote add origin https://github.com/erikdubois/Ultimate-Linux-Mint-18.git
+# git push -u origin master
+
+
+
+
 git add --all .
 
 # Committing to the local repository with a message containing the time details
