@@ -6,6 +6,7 @@ Version 2.6
 
 Changed to fit to Linux Mint 18 Beta
 
+
 See log file in folder Yltra Flat
 
 
