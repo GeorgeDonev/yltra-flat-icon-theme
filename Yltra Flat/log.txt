@@ -1,5 +1,8 @@
-Version 2.6 18/06/2016
+Version 2.6 
+
+18/06/2016
 Made ready for Linux Mint 18 Beta Cinnamon
+
 pix
 uploadmanager
 mintnanny
