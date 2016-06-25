@@ -1,5 +1,15 @@
 # Yltra Flat 
 
+On June 2016 I made a derivative on basis of this icon set. 
+
+
+You can find this icon set at 
+
+https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
+
+
+
+
 Version 2.6
 
 18/06/2016
