@@ -28,12 +28,25 @@
 ############################################################################
 # Below command will backup everything inside the project folder
 
-# echo "# Ultimate-Linux-Mint-18" >> README.md
+# echo "# yltra-flat-icon-theme" >> README.md
 # git init
 # git add README.md
 # git commit -m "first commit"
-# git remote add origin https://github.com/erikdubois/Ultimate-Linux-Mint-18.git
+# git remote add origin https://github.com/erikdubois/yltra-flat-icon-theme
 # git push -u origin master
+
+# Icon cache
+
+echo "Yltra-Flat"
+gtk-update-icon-cache -f -t -v Yltra-Flat
+echo "Yltra-Flat-Arch-Blue"
+gtk-update-icon-cache -f -t -v Yltra-Flat-Arch-Blue
+echo "Yltra-Flat-Majestic"
+gtk-update-icon-cache -f -t -v Yltra-Flat-Majestic
+echo "Yltra-Flat-Green"
+gtk-update-icon-cache -f -t -v Yltra-Flat-Mint-Green
+echo "Yltra-Flat-Orange"
+gtk-update-icon-cache -f -t -v Yltra-Flat-Orange
 
 
 
