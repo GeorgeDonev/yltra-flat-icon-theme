@@ -10,7 +10,7 @@ https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
 
 
 
-Version 2.6.3
+Version 2.6.4
 
 18/06/2016
 
