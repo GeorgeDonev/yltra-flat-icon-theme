@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Yltra Flat Arch Blue
 Comment=An icon theme for Linux desktops, the set is inspired by the latest flat design trend.
-Inherits=Yltra Flat
+Inherits=Yltra-Flat
 
 Example=x-directory-normal
 
