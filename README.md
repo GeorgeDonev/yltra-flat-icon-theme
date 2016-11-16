@@ -1,11 +1,11 @@
-# Yltra Flat 
+# Yltra Flat
 
-On June 2016 I made a derivative on basis of this icon set. 
+#THIS GITHUB WILL NOT BE MAINTAINED.
+#THIS ICON SET IS THE PREDECESSOR OF SURFN ICONS.
 
+#https://github.com/erikdubois/Surfn
 
-You can find this icon set at 
-
-https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
+#SURFN WILL BE MAINTAINED!
 
 
 
@@ -69,7 +69,7 @@ Most recent developments are on top.
 
 ![Screenshots](http://i.imgur.com/1qoIM2J.jpg)
 
-# Ubuntu 15.10 Yltra Flat 
+# Ubuntu 15.10 Yltra Flat
 
 ![Screenshots](http://i.imgur.com/1cJ08de.jpg)
 
@@ -107,7 +107,7 @@ Done
 
 # How is it managed
 
-To be able to manage this icon set <b>Yltra Flat</b> is the main icon set. All the others inherit icons from <b>Yltra Flat</b>. 
+To be able to manage this icon set <b>Yltra Flat</b> is the main icon set. All the others inherit icons from <b>Yltra Flat</b>.
 Other icon sets will have different folder colours but all other icons come from the main one.
 
 If you fix an app icon, it will be fixed for all icon sets.
@@ -202,10 +202,10 @@ Naming the index.theme and the folder are the two steps.
 
 # Credits
 
-Started out as a small change at 
+Started out as a small change at
 https://github.com/erikdubois/Ultra-Flat-Icons
 
-In the meantime days of work have gone into it. Two new icon themes have been added in January 2015. A new branding was in order. 
+In the meantime days of work have gone into it. Two new icon themes have been added in January 2015. A new branding was in order.
 
 Yltra Flat was a TYPO but set the idea in my head to tell endusers that it is no longer the same icon theme.
 
